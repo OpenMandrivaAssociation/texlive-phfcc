@@ -1,6 +1,6 @@
 Name:		texlive-phfcc
 Version:	60731
-Release:	1
+Release:	2
 Summary:	Convenient inline commenting in collaborative documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/phfcc
