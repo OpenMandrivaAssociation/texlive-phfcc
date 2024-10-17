@@ -3,7 +3,7 @@ Version:	60731
 Release:	2
 Summary:	Convenient inline commenting in collaborative documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/phfcc
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/phfcc
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/phfcc.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/phfcc.doc.r%{version}.tar.xz
